@@ -1,4 +1,4 @@
-Basic App made using **Kotlin**, **Jetpack Compose** and **Firebase**.
+Basic Group Chat App made using **Kotlin**, **Jetpack Compose** and **Firebase**.
 
 Features:
 - Basic Interface for a group chat.
